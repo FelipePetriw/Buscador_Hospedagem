@@ -2,3 +2,8 @@
     width: 100px;
     border: 1px solid var(--bg-orange);
 }
+
+.logo-img-default {
+    width: auto;
+    height: 120px;
+}
